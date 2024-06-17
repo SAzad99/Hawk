@@ -8,10 +8,10 @@
   
 - Secure Data Storage and Transfer using Encryption: Combination of Fully Homomorphic Encryption & AES for Data Security
   
-- Machine Learning Algorithms for Fraud Detection and User Behavioral Analysis</li><br></br>
+- Machine Learning Algorithms for Fraud Detection and User Behavioral Analysis
+
+
                                    
-
 ## Technology Stack
-
 - Frontend: Developed using ReactJS and enhanced with the Bootstrap framework, delivering a responsive and visually appealing user interface.
 
