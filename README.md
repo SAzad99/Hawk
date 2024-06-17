@@ -1,7 +1,5 @@
 # SECURE AUTOMATION FOR THE DEPARTURE PROCESS OF THE AIRPORT AND AVIATION SERVICES IN SRI LANKA
 
-### [Live Site](https://listened.netlify.app/)
-
 
 ## Features
 - Biometric Authentication: Facial Detection and Recognition
