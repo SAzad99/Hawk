@@ -1,16 +1,17 @@
-# HELA WEDAKAMA APPLICATION TO GUIDE PATIENTS AND NATIVE PHYSICIANS
+# SECURE AUTOMATION FOR THE DEPARTURE PROCESS OF THE AIRPORT AND AVIATION SERVICES IN SRI LANKA
 
 ### [Live Site](https://listened.netlify.app/)
 
 
 ## Features
-- Plant Identification
-
-- Disease Identification and Recommended Doctor
-
-- Handwritten Prescription Identification
-
-- Nila Wedakama
+- Biometric Authentication: Facial Detection and Recognition
+  
+- Access Control and Authentication: Zero-Knowledge Proof (ZKP) for Authentication
+  
+- Secure Data Storage and Transfer using Encryption: Combination of Fully Homomorphic Encryption & AES for Data Security
+  
+- Machine Learning Algorithms for Fraud Detection and User Behavioral Analysis</li><br></br>
+                                   
 
 ## Technology Stack
 
