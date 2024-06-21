@@ -1,7 +1,7 @@
 /* hero background image */
 .bgimage {
   height: 100vh;
-  background: url('C:\Users\shehn\OneDrive\Desktop\rp\src\images\bg (2).jpg');
+  background: url('https://scribemedia.com/wp-content/uploads/2022/03/How-to-Publish-an-Audiobook-in-5-Steps-700x406.jpg');
   background-size: cover;
   position: relative;
   
@@ -119,7 +119,7 @@
 .achievements .work i {
   width: fit-content;
   font-size: 50px;
-  color: #164f96;
+  color: #44a855;
   padding: 12px;
 }
 
@@ -158,11 +158,11 @@
 }
 
 .card:hover .servicesIcon {
-  color: #003180;
+  color: #008000;
 }
 
 .servicesText:hover {
-  border: 1px solid #002980;
+  border: 1px solid #008000;
 }
 
 /* services section css end */
@@ -348,7 +348,7 @@ button.btn.btn-link i {
 }
 
 .nav-pills-custom .nav-link.active {
-  color: #456bb6;
+  color: #45b649;
   background: #ffffff53;
 }
 
@@ -395,7 +395,7 @@ button.btn.btn-link i {
 */
 
 /* meet team css */
-
+.meetteam {}
 
 .meetteam .card {
   display: block;
@@ -424,7 +424,7 @@ button.btn.btn-link i {
 }
 
 .meetteam .carddowndolad:hover .docicon {
-  color: rgb(109, 132, 214);
+  color: rgb(120, 214, 109);
   transition: 0.3s;
 }
 
@@ -478,12 +478,12 @@ button.btn.btn-link i {
 
 /*Objectives css */
 
-
+.objectives {}
 
 .objectives .circle {
   padding: 13px 20px;
   border-radius: 50%;
-  background-color: #061c4b;
+  background-color: #2d9357;
   color: #fff;
   max-height: 50px;
   z-index: 1;
@@ -567,7 +567,7 @@ button.btn.btn-link i {
 
 /*Time line css*/
 
-
+.timelinecss {}
 
 .timelinecss ul.timeline {
   list-style-type: none;
